@@ -1,6 +1,11 @@
 This is my first project.
 Hello!!!
+
+
+Hope you are doing well.
+=======
 all how are you?
+>>>>>>> master
 
 I am Glad to be a part of this Project.
 
